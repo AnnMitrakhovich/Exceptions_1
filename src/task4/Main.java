@@ -26,6 +26,8 @@ public class Main {
             }
         }
         return listOfNull;
+
+
     }
 
     public static void checkAndMarkAndPrint (Integer[] array) {
